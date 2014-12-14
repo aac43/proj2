@@ -1,0 +1,149 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {text-align: center;}
+
+p{font-size: 14pt;
+	padding: 5px;}
+
+#logo{text-align: center;
+		padding-left:500px; }
+	
+
+#big_wrapper {
+	text-align: left;
+	width: 1200px;
+	margin: 20px auto;
+}
+
+#top_header{
+	display: inline;
+	float: center;		
+}
+
+#top_menu{
+	background: #B2B2FF;
+	font-size: 16pt;
+	color: white;
+	text-align: center;
+}
+#top_menu li{
+	display:inline-block;
+	list-style: none;
+	margin: 20px;
+	float: center;
+}
+#vision{text-align: center;}
+#intro{
+	float: center;
+	text-align: center;
+}
+#intro h5{
+	padding: 5px;
+	color: grey;
+}
+#intro h4{
+	color: #006600;
+	padding: 5px;
+}
+
+#vid{
+	padding: 40px;
+	margin-left: 110px;
+	background-position: center, center;
+	text-align: right;
+}	
+
+#fb  {text-align: center;}
+
+#introduction h3{
+	margin: 20px;
+	font-size: 18pt;	
+	text-align: center;
+	
+}
+#introduction p{font-size: 15pt;}
+
+#foot{
+	margin-top: 250px;
+	background: #B2B2FF;
+	color: white;
+	font: 16pt bold Ariel;
+	}
+#intro h1{
+	padding: 25px;
+	text-align: center;
+}
+#laser1 img{
+	padding: 70px;
+	text-align: center;
+	width: 250px;
+	height: 220px;
+}
+#laser1{float: center;
+		text-align: center;
+		background: #E6E6FF}
+h3 {text-align: center;}
+#laser1 h1{padding-top: 70px;}
+
+#laser2 img{
+	padding: 70px;
+	text-align: center;
+	width: 250px;
+	height: 220px;
+}
+#laser2{float: center;
+		text-align: center;
+		background: #E6E6FF}
+h3 {text-align: center;
+padding: 20px;}
+#laser2 h1{padding-top: 70px;}
+
+#specs{margin-top: 100px;
+float: center, center;
+text-align: center;
+width: 1000px;}
+
+h2{text-align: center;
+margin-bottom: 70px;}
+
+
+#soft img{
+	padding: 70px;
+	text-align: center;
+	width: 250px;
+	height: 220px;
+}
+#soft{
+	padding-top: 50px;
+	float: center;
+	text-align: center;
+h3 {text-align: center;}
+#soft h1{padding-top: 70px;}
+#sshot{size: 1000px;
+text-align: center;
+float: center;
+padding-left: 100px;
+margin-left: 200px;}
+#sshot img{margin-left: 400px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
